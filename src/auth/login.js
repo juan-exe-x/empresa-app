@@ -1,2 +1,1 @@
-// Módulo de Login - Juan Hincapié
-function authenticate(user, pass) { return true; }
+// version 1.0 - Juan Hincapie
